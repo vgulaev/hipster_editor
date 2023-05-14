@@ -4,6 +4,7 @@
 void window_init();
 void draw_rect();
 void quit();
+void draw_window();
 
 #endif
 
